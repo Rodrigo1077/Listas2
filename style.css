@@ -1,0 +1,10 @@
+ol.circulo {
+    list-style: circle;
+}
+
+li.romano {
+    list-style: upper-roman
+}
+li.abc {
+    list-style: lower-latin;
+}
